@@ -277,7 +277,7 @@ Partial Class Form1
         Me.Label18.Location = New System.Drawing.Point(1092, 86)
         Me.Label18.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(34, 16)
+        Me.Label18.Size = New System.Drawing.Size(33, 16)
         Me.Label18.TabIndex = 87
         Me.Label18.Text = "Au :"
         '
@@ -288,7 +288,7 @@ Partial Class Form1
         Me.Label17.Location = New System.Drawing.Point(1092, 42)
         Me.Label17.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(35, 16)
+        Me.Label17.Size = New System.Drawing.Size(34, 16)
         Me.Label17.TabIndex = 86
         Me.Label17.Text = "Du :"
         '
@@ -299,7 +299,7 @@ Partial Class Form1
         Me.Label16.Location = New System.Drawing.Point(1137, 16)
         Me.Label16.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(147, 16)
+        Me.Label16.Size = New System.Drawing.Size(146, 16)
         Me.Label16.TabIndex = 85
         Me.Label16.Text = "Recherche par Date"
         '
@@ -367,7 +367,7 @@ Partial Class Form1
         '
         Me.ComboBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"Nabil ITIM", "Philippe LE POUHAER", "Sonia ABIDAT", "Mohamed M'HAMDI", "Rémi DEBARD"})
+        Me.ComboBox1.Items.AddRange(New Object() {"Nabil ITIM", "Philippe LE POUHAER", "Olivier TRICHARD", "Mohamed M'HAMDI", "Rémi DEBARD", "Matthieu LEPOITTEVIN", "Valérie SEU"})
         Me.ComboBox1.Location = New System.Drawing.Point(263, 267)
         Me.ComboBox1.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
         Me.ComboBox1.Name = "ComboBox1"
@@ -462,7 +462,7 @@ Partial Class Form1
         Me.Label9.Location = New System.Drawing.Point(970, 133)
         Me.Label9.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(118, 16)
+        Me.Label9.Size = New System.Drawing.Size(117, 16)
         Me.Label9.TabIndex = 101
         Me.Label9.Text = "Viscosité@25°C"
         '
@@ -500,7 +500,7 @@ Partial Class Form1
         Me.Label19.Location = New System.Drawing.Point(25, 26)
         Me.Label19.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(243, 16)
+        Me.Label19.Size = New System.Drawing.Size(242, 16)
         Me.Label19.TabIndex = 117
         Me.Label19.Text = "Qualification quantité de dispense"
         '
@@ -531,7 +531,7 @@ Partial Class Form1
         Me.Label10.Location = New System.Drawing.Point(40, 47)
         Me.Label10.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(64, 16)
+        Me.Label10.Size = New System.Drawing.Size(63, 16)
         Me.Label10.TabIndex = 111
         Me.Label10.Text = "dipense"
         '
@@ -542,7 +542,7 @@ Partial Class Form1
         Me.Label15.Location = New System.Drawing.Point(108, 86)
         Me.Label15.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(71, 16)
+        Me.Label15.Size = New System.Drawing.Size(70, 16)
         Me.Label15.TabIndex = 115
         Me.Label15.Text = "Poids (g)"
         '
@@ -553,7 +553,7 @@ Partial Class Form1
         Me.Label14.Location = New System.Drawing.Point(166, 47)
         Me.Label14.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(93, 16)
+        Me.Label14.Size = New System.Drawing.Size(92, 16)
         Me.Label14.TabIndex = 113
         Me.Label14.Text = "quantité (ml)"
         '
